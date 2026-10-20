@@ -1,0 +1,9 @@
+{
+  "name": "corner-shooter-server",
+  "version": "1.0.0",
+  "description": "코너 슈터 3D 멀티플레이 서버 (방 코드로 모아 주는 실시간 중계)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
